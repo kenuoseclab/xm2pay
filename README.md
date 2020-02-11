@@ -27,7 +27,7 @@
 - 5、支持对系统进行功能定制、预充值式手续费设置，满足您的一切需求！  
 
 ### 在线测试
-- 本项目演示地址： [点此测试](https://xmpay.jmkeji.net)
+- 本项目演示地址： [点此测试](http://xmpay.jmkeji.net)
 
 ### 源码下载
-- 本项目源码下载： [点此下载](https://xmpay.jmkeji.net)
+- 本项目源码下载： [点此下载](http://xmpay.jmkeji.net)
